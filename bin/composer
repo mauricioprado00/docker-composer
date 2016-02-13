@@ -10,4 +10,4 @@ fi
 USER=$(id -u)
 GROUP=$(id -g)
 
-docker run -e "COMPOSER_CACHE_DIR=/tmp/cache" -u="$USER:$GROUP" -v $(pwd):/app composer/composer $@
+docker run --rm -e "COMPOSER_CACHE_DIR=/tmp/cache" -u="$USER:$GROUP" -v $(pwd):/app composer/composer $@
