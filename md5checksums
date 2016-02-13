@@ -1,0 +1,7 @@
+5105a58b32b801890bad2cdf32ab540c  ./install.sh
+191d9add22fd1c1d0b24a9bc2a2bb2c0  ./bin/composer-init
+df36ff5888409691585b0e32ed652ef3  ./bin/composer
+afa5631ac550aa0851e6cd32fc95ca17  ./bin/composer-require
+13a934eda4e69a02c5ac4103dd1c2897  ./bin/get-docker-composer
+ac7ef72ade2b2dcb5f4eee20a4cfd0e5  ./bin/composer-dump-autoload
+ad9615961f86f430274b38d61aeaf3fe  ./bin/composer-update
