@@ -1,0 +1,3 @@
+curl https://codeload.github.com/mauricioprado00/docker-composer/zip/master > docker-composer-master.zip
+unzip docker-composer-master.zip
+sh -c docker-composer-master/install.sh
