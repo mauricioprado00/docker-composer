@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 function pull_composer_image()
 {
     docker pull composer/composer
